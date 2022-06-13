@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>HomePage</title>
+</head>
+<body>
+<h1> Hello JSP Servlets</h1>
+
+<h4> Crud Operations </h4>
+
+<form action="Home" method="GET">
+Name <input type="text"  name="name">
+<br>
+<br>
+Age <input type = "text"  age="age">
+<br>
+<br>
+<input type="submit"  value="save">
+</form>
+</body>
+</html>
